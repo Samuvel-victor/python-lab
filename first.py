@@ -13,3 +13,4 @@ labels = kmeans.labels_
 plt.scatter(X[:, 0], X[:, 1], c=labels, cmap='viridis')
 plt.scatter(kmeans.cluster_centers_[:, 0], kmeans.cluster_centers_[:, 1], s=300, c='red', marker='x')
 plt.show()
+//asasd djv fdj vjsd j
